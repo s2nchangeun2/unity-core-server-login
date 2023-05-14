@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'UnityProject'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B0E299D5CF4A446FA68445BE8BBD1806 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6499CCD3B0F243E0AC599A5C52C06442 }}
           package: .
